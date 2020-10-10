@@ -1,0 +1,5 @@
+cd /D	--定位到D盘
+cd /D/spring 	定位到D盘的spring文件夹
+ls	 查看你目前所定位的文件夹中的文件
+git add test.txt
+之后输入然后git commit -m "cc"  引号内的内容可以随意改动，这个语句的意思是 给你刚刚上传的文件一个备注，方便查找记忆而已
